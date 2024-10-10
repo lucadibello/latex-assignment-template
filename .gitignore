@@ -6,4 +6,6 @@
 
 # Include all LaTeX files and the bibliography
 !*.tex
+!*.sty
 !*.bib
+!*.pdf
